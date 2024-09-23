@@ -9,6 +9,8 @@ public class Series extends Catalogo{
         this.temporadas = temporadas;
         this.mediaEpisodios = mediaEpisodios;
     }
+//    public Series(){
+//    }
 
     public int getTeporadas() {
         return temporadas;
